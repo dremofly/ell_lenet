@@ -1,3 +1,23 @@
+.
+├── pc
+│   ├── cntk
+│   │   ├── mnist.model
+│   │   └── mnist.py
+│   └── ell
+│       ├── call_model.py
+│       ├── model.ell
+│       ├── testSample
+│       │   └── img_27.jpg
+│       └── tutorial_helpers.py
+├── pi3
+│   ├── call_model.py
+│   ├── model.ell
+│   ├── testSample
+│   │   └── img_27.jpg
+│   ├── tutorial_helpers.py
+│   └── tutorial.py
+└── readme.md
+
 #步骤:
 
 ##进入pc/ell文件夹
